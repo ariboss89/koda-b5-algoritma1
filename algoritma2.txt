@@ -1,6 +1,6 @@
 Minitask Algoritma 2
-
 Menghitung luas & keliling lingkaran
+
 1. Mulai
 2. Masukkan nilai pi yaitu 3.14
 3. Masukkan nilai jari jari lingkaran
