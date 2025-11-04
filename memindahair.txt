@@ -1,0 +1,10 @@
+Minitask Algoritma 1
+
+Memindahkan Air didalam gelas kaca berisi Teh dan gelas kaca berisi kopi
+
+1. Mulai
+2. Siapkan sebuah gelas plastik kosong
+3. Masukkan cairan di dalam gelas kaca yang berisikan teh ke dalam gelas plastik kosong yang disediakan
+4. Pindahkan isi gelas yang berisikan cairan kopi ke dalam gelas kaca kosong bekas teh
+5. Pindahkan isi gelas plastik yang terdapat cairan teh ke dalam gelas kaca kosong bekas kopi
+6. Selesai
