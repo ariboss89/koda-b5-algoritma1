@@ -1,0 +1,9 @@
+Minitask Algoritma 3
+Menghitung luas & keliling lingkaran
+
+1. Mulai
+2. Tentukan nilai X
+3. Bagi nilai X dengan 2 lalu simpan sisa bagi ke dalam variabel Y
+4. Jika nilai Y Adalah 0 maka tampilkan keterangan Genap
+5. Jika nilai Y Bukan 0 maka tampilkan keterangn Ganjil
+6. Selesai
