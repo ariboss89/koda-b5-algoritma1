@@ -2,9 +2,9 @@ Minitask Algoritma 2
 Menghitung luas & keliling lingkaran
 
 1. Mulai
-2. Masukkan nilai pi yaitu 3.14
-3. Masukkan nilai jari jari lingkaran
+2. Masukkan nilai jari jari lingkaran
+3. Jika jari-jari bisa dibagi 7 maka nilai pi adalah 22/7 dan jika jari-jari tidak bisa dibagi 7 maka nilai pi adalah 3.14
 4. Melakukan perhitungan luas dengan rumus pi * r * r
 5. Melakukan perhitungan keliling dengan rumus 2 * pi * r
-6. Menampilkan hasil luas dan keliling lingkaran
+6. Tampilkan hasil luas dan keliling lingkaran
 7. Selesai
